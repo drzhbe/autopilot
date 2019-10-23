@@ -1,0 +1,27 @@
+{
+  "id": 2,
+  "items": [
+    {
+      "type": "person",
+      "name": "Napoleon Bonaparte",
+      "photo": "https://www.biography.com/.image/t_share/MTIwNjA4NjMzMjIxNzExMzcy/napoleon-i-9420291-2-402.jpg"
+    },
+    {
+      "type": "person",
+      "name": "Vincent van Gogh",
+      "photo": "https://www.biography.com/.image/t_share/MTY2NTIzMzc4MTI2MDM4MjM5/vincent_van_gogh_self_portrait_painting_musee_dorsay_via_wikimedia_commons_promojpg.jpg"
+    },
+    {
+      "type": "person",
+      "name": "Unknown Soldier"
+    },
+    {
+      "type": "event",
+      "name": "First van Gogh's exhibition"
+    },
+    {
+      "type": "event",
+      "name": "Napoleon's birthday"
+    }
+  ]
+}
